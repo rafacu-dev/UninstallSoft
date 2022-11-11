@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\bin\Debug\net7.0\UninstallSoft.exe
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\bin\Debug\net7.0\UninstallSoft.deps.json
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\bin\Debug\net7.0\UninstallSoft.runtimeconfig.json
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\bin\Debug\net7.0\UninstallSoft.dll
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\bin\Debug\net7.0\UninstallSoft.pdb
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.csproj.AssemblyReference.cache
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.dll
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\refint\UninstallSoft.dll
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.pdb
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\UninstallSoft.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\Proyectos C#\UninstallSoft\obj\Debug\net7.0\ref\UninstallSoft.dll
